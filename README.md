@@ -1,5 +1,3 @@
 # superhero-hunter
 
-To do go the app, below is a link.
-
-# https://prateek-works.github.io/superhero-hunter/
+This App is created using Vanilla js and used api.
